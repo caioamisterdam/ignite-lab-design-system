@@ -14,8 +14,7 @@ Projeto desenvolvido durante o Ignite Lab da Rockeatseat.
 
 ## Preview
 
-![preview-1](./public/preview-1.png)
-![preview-2])./public/preview-2.png)
+![preview-2](./public/preview-2.png)
 
 ## ⚒️ Tecnologias
 - React JS
@@ -29,10 +28,10 @@ Projeto desenvolvido durante o Ignite Lab da Rockeatseat.
 - Jest
 - Mock Service Worker
 
-##📐  Protótipo
+## 📐  Protótipo
 🔗 [Clique aqui e veja o projeto no Figma](https://www.figma.com/file/yLWngswm5eRH4TP71S7xZW/Ignite-Lab?node-id=0%3A1)
 
-##👨🏻‍💻 Acesse o projeto
+## 👨🏻‍💻 Acesse o projeto
 
 🔗 [Clique aqui para acessar o Design System no Storybook](https://caioamisterdam.github.io/ignite-lab-design-system/)
 
